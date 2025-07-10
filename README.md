@@ -63,10 +63,14 @@
 ---
 
 **Анна Сушкова**  
-📩  petryaeva88@mail.ru 
-📲 @anna88sushkova
-=:^_^:= [github.com/Sushkova88](https://github.com/Sushkova88)  
-📜 [Резюме на HH.ru](https://hh.ru/resume/ec7e1b56ff0d8a52d40039ed1f326258714571)
+</p>
+<h3 align="center"> Как связаться со мной: </h3>
+<p align="center">
+<a href= "https://hh.ru/resume/ec7e1b56ff0d8a52d40039ed1f326258714571"><img src="https://tech.hh.ru/api/logos/min-hh-red.png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/anna88sushkova"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:petryaeva280488@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
+
 
 ---
 
