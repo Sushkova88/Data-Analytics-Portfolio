@@ -1,0 +1,9 @@
+├── README.md
+├── scripts
+│   ├── feed_analysis.py
+│   └── anomaly_detection.py
+├── sql
+│   ├── basic_metrics.sql
+│   └── anomaly_report.sql
+├── data
+│   └── sample_feed_data.csv
