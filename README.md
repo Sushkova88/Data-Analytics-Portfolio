@@ -63,9 +63,11 @@
 ---
 
 **Анна Сушкова**  
-📩 petryaeva88@mail.ru  
-🌐 [github.com/Sushkova88](https://github.com/Sushkova88)  
-💼 [Резюме на HH.ru](https://hh.ru/resume/ec7e1b56ff0d8a52d40039ed1f326258714571)
+📩  petryaeva88@mail.ru  
+=:^_^:= [github.com/Sushkova88](https://github.com/Sushkova88)  
+📜 [Резюме на HH.ru](https://hh.ru/resume/ec7e1b56ff0d8a52d40039ed1f326258714571)
+📲 [ТГ](@anna88sushkova)
+
 
 ---
 
