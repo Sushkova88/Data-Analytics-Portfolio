@@ -64,6 +64,7 @@
 
 **Анна Сушкова**  
 </p>
+<h3 align="center"> **Анна Сушкова** </h3>
 <h3 align="center"> Как связаться со мной: </h3>
 <p align="center">
 <a href= "https://hh.ru/resume/ec7e1b56ff0d8a52d40039ed1f326258714571"><img src="https://tech.hh.ru/api/logos/min-hh-red.png" width="40" height="40" alt="linkedin"/></a>
