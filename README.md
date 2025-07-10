@@ -70,3 +70,5 @@
 ---
 
 👀 _Спасибо, что заглянули! Если вас интересует сотрудничество — буду рада пообщаться._
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
